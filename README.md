@@ -1,0 +1,1 @@
+This is my first project that I am creating for The Odin Project.  This project is just me make a simple google homepage mockup to start to understand the code and how it functions.
